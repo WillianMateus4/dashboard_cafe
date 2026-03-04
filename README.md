@@ -15,13 +15,13 @@ Este projeto é uma solução para acompanhar os resultados de vendas de uma red
 * **Visão Geral:** Visão 360º sobre os 3 principais indicadores (Receita, Volume e Preço Médio), análise de tendência dos últimos 7 dias e um ranking dinâmico por marca, categoria, família e grupo.
 * **Detalhamento:** Visão detalhada sobre os indicadores, sendo que través de filtros interativos, o usuário poderá ter uma visão personalizada do que deseja analisar.
 * **Informações do produto:** uma página dedicada a analisar os produtos individualmente e acompanhar seus resultados nos últimos 30 dias.
-* **Dica de Ferramenta:** Ao passar o mouse sobre um dia específico do Gráfico de Colunas, o usuário acessa o detalhamento do dia, com comparativo MoM e YoY.
+* **Dica de Ferramenta:** Ao passar o mouse sobre um dia específico do Gráfico de Colunas, o usuário acessa o detalhamento do dia, com comparativo (Month-over-Month) e YoY (Year-over-Year).
 
 
 ## 🚀 Futuras Implementações
 
-* > **Filtro de Período:** Inclusão de uma segmentação de dados na tela de **Visão Geral** para alterar o gráfico de colunas (ex: Últimos 7 dias, 30 Dias, 3 meses, 6 meses, 1 ano).
-* > **Filtro de Comparativo MoM e YoY:** Implementação de análises comparativas de MoM (Month-over-Month) e YoY (Year-over-Year), permitindo a seleção via Parâmetros de Campo.
+* **Filtro de Período:** Inclusão de uma segmentação de dados na tela de **Visão Geral** para alterar o gráfico de colunas (ex: Últimos 7 dias, 30 Dias, 3 meses, 6 meses, 1 ano).
+* **Filtro de Comparativo MoM e YoY:** Implementação de análises comparativas de MoM e YoY, permitindo a seleção via Parâmetros de Campo.
 
 ## 🛠️ Ferramentas e Tecnologias Utilizadas
 

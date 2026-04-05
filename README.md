@@ -32,6 +32,6 @@ Este projeto é uma solução para acompanhar os resultados de vendas de uma red
 
 ## 👤 Autor
 
-**Willian Mateus Batista Oliveira**
-* > **💼 Linkedin:** [clique aqui para acessar](https://www.linkedin.com/in/willianmateus/)
-* > **🌐 Portfólio:** [clique aqui para acessar](https://sites.google.com/view/willianmateus/home)
+**Willian Mateus** | *Data Analyst & Business Intelligence*
+
+ℹ️ Para saber mais sobre mim, ver meus outros projetos ou entrar em contato, visite meu [Perfil do GitHub](https://github.com/WillianMateus4).
